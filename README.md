@@ -1,1 +1,1 @@
-# mina.github.io
+# mina website
